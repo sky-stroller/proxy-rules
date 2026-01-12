@@ -25,5 +25,3 @@ payload:
 - DOMAIN-SUFFIX,t.audiences.me
 - DOMAIN-SUFFIX,piggo.me
 - DOMAIN-SUFFIX,tracker.piggo.me
-- IP-CIDR6,2606:4700:3035::6815:305d/128 # piggo.me
-- IP-CIDR6,2606:4700:3034::ac43:b73f/128 # piggo.me tracker
